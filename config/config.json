@@ -1,0 +1,17 @@
+{
+  "workers": {
+    "DATASOURCE_SERVER__Default": "http://10.101.0.173:900",
+    "DATASOURCE_SERVER__GoogleAdwords": "http://10.101.0.156:900",
+    "DATASOURCE_SERVER__FbAds": "http://10.101.2.96:900",
+    "DATASOURCE_SERVER__Facebook": "http://10.101.1.13:900",
+    "DATASOURCE_SERVER__GoogleSearchConsole": "http://10.101.0.231:900",
+    "DATASOURCE_SERVER__YouTube": "http://10.101.1.173:900",
+    "DATASOURCE_SERVER__CallRail": "http://10.101.2.98:900",
+    "DATASOURCE_SERVER__GoogleAnalytics": "http://10.101.3.249:900",
+    "QUERYBUILDER_SERVER__Default": "http://172.20.154.67:890",
+    "QUERYBUILDER_SERVER__GoogleAdwords": "http://10.101.5.153:890",
+    "QUERYBUILDER_SERVER__FbAds": "http://10.101.7.81:890",
+    "QUERYBUILDER_SERVER__GoogleAnalytics": "http://10.101.3.19:890",
+    "QUERYBUILDER_SERVER__CallRail": "http://10.101.1.81:890"
+  }
+}
